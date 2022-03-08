@@ -25,12 +25,12 @@ Es un despacho de abogados que quiere automatizar las demandas de sus clientes, 
 
 
 
-##Prácticas
-  - [Toma de requerimientos]()
-  - [Crea tu buyer persona]()
-  - [Publico objetivo]()
-  - [Crea tu primer Wireframe UX]()
-  - [Ahora el UI]()
+## Prácticas
+  - [Toma de requerimientos](https://github.com/crisaridev/FrontEnd-Mision_Requerimientos/tree/main/1.-%20Requerimientos)
+  - [Crea tu buyer persona](https://github.com/crisaridev/FrontEnd-Mision_Requerimientos/tree/main/2.-%20Buyer%20Persona)
+  - [Publico objetivo](https://github.com/crisaridev/FrontEnd-Mision_Requerimientos/tree/main/3.-%20P%C3%BAblico%20Objetivo)
+  - [Crea tu primer Wireframe UX](https://github.com/crisaridev/FrontEnd-Mision_Requerimientos/tree/main/4.-%20Wireframe)
+  - [Ahora el UI](https://github.com/crisaridev/FrontEnd-Mision_Requerimientos/tree/main/5.-%20UI)
 
 Para entrar a los contenidos solo tienes que dar click en el título y empezará la aventura.
 
